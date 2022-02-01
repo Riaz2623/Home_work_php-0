@@ -1,0 +1,19 @@
+{
+  "name": "batch-3/php_batch_3_day_11",
+  "type": "project",
+  "description": "This is PHP project",
+  "keywords": [],
+  "license": "",
+  "require": {
+
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+
+    }
+  }
+}
